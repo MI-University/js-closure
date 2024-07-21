@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 14pt;
+  color: #555;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 10px;
+}
+h1 {
+  color: #333;
+}
+h2 {
+  color: #444;
+}
+p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+ul {
+}
+ol li,
+ul li {
+  font-size: 12pt;
+}
+.accent1 {
+  color: #8BB34A;
+}
+.accent2 {
+  color: #FFC107;
+}
